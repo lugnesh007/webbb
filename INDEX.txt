@@ -52,6 +52,10 @@
                 <img class="corner-top-2" src="corner-1.svg" alt="corner">
                 <img class="corner-top-3" src="corner-1.svg" alt="corner">
             </div>
+            img class="corner-top-1" src="corner-1.svg" alt="corner">
+                <img class="corner-top-2" src="corner-1.svg" alt="corner">
+                <img class="corner-top-3" src="corner-1.svg" alt="corner">
+            </div>
         </div>
 
         <div class="container home-elements">
